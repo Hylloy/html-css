@@ -83,7 +83,6 @@ section.imagem > p {
 }
 
 section#img01 {
-    a
     background-image: url('../imagens/madrugada.jpg');
     background-position: right center;
     background-size: cover;
